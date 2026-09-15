@@ -1,0 +1,1 @@
+def basic_operator = input()
